@@ -1,6 +1,7 @@
 # todoapp
 
 need to make the app look better and have good ui
+for the commit
 
 Laravel ToDo App
 
