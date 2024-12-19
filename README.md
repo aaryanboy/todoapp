@@ -1,5 +1,7 @@
 # todoapp
 
+need to make the app look better and have good ui
+
 Laravel ToDo App
 
 Project Description
