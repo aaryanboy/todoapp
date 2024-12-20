@@ -43,6 +43,7 @@ Steps
         cd todo-app
 
 2.  Install Dependencies:
+    this installs the vender folder and its dependencies
     composer install
 
 3.  Set Up Environment Variables:
