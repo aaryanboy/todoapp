@@ -48,9 +48,6 @@ Steps
 3.  Set Up Environment Variables:
     Copy the .env.example file to .env:
     cp .env.example .env
-    for this project i have setup .env as it is since there is no important keys and sensative passwords but please look at .env before saving to github
-
-        note.. can skip the step 4 to7 and start development server immidiatly
 
 4.  Update database credentials in the .env file:
     DB_CONNECTION=mysql
